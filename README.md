@@ -1,4 +1,4 @@
-![IOS Developer ](https://developer.apple.com/news/images/og/apple-developer-og.png)
+![IOS Developer ](https://s3.amazonaws.com/SSL_Assets/apple/iBooks_DIS_Banner_Master_15n.png)
 
   # Hi 👋, I'm Shady 🧑🏻‍💻
   #### IOS Developer 
