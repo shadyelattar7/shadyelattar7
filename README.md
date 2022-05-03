@@ -4,7 +4,7 @@
   #### IOS Developer 
 
 
-I'm Shady from Egypt,Alexandria, and I ios developer. I really enjoy learning languages and frameworks like Objective-c, Swift and Java. I have good experience in IOS development I built some interesting applications in IOS
+I'm Shady from Alexandria - Egypt, and I ios developer. I really enjoy learning languages and frameworks like Objective-c, Swift and Java. I have good experience in IOS development I built some interesting applications in IOS
 
 # Skills and Experience: 
 
